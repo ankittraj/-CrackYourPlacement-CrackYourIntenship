@@ -1,2 +1,2 @@
-# -CrackYourPlacement-CrackYourIntenship
+# -CrackYourPlacement-CrackYourInternship
 DSA
